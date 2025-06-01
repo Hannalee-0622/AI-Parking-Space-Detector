@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/parking-lot-detection/train/images
+val: /content/drive/MyDrive/parking-lot-detection/valid/images
+test: /content/drive/MyDrive/parking-lot-detection/test/images
+
+nc: 2
+names: ['space-empty', 'space-occupied']
